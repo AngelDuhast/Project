@@ -15,21 +15,7 @@
     font-weight: 300;
     line-height: 1.4;
     font-family: 'Montserrat', sans-serif;
-    text-align: justify;
-
     
-}
-
-.scrollup{
-    width:40px;
-    height:40px;
-    opacity:0.3;
-    position:fixed;
-    bottom:50px;
-    right:100px;
-    display:none;
-    text-indent:-9999px;
-    background: "Formuls/icon_top.png";
 }
 
 .black
